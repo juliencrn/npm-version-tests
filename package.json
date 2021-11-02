@@ -1,8 +1,8 @@
 {
   "name": "@junscuzzy/test-npm",
   "version": "2.0.3",
-  "description": "",
-  "main": "index.js",
+  "description": "Awesome description",
+  "main": "dist/index.js",
   "author": "Julien CARON <juliencaron@protonmail.com>",
   "homepage": "https://usehooks-ts.com/",
   "private": false,
@@ -12,7 +12,11 @@
     "preversion": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "node",
+    "npm",
+    "git"
+  ],
   "license": "ISC",
   "devDependencies": {
     "typescript": "^4.4.4"

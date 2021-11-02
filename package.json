@@ -1,6 +1,6 @@
 {
   "name": "@junscuzzy/test-npm",
-  "version": "2.0.4",
+  "version": "2.0.5",
   "description": "Awesome description",
   "main": "dist/index.js",
   "author": "Julien CARON <juliencaron@protonmail.com>",

@@ -4,7 +4,7 @@
   "description": "Awesome description",
   "main": "dist/index.js",
   "author": "Julien CARON <juliencaron@protonmail.com>",
-  "homepage": "https://usehooks-ts.com/",
+  "homepage": "https://usehooks-ts.com",
   "private": false,
   "scripts": {
     "build": "tsc",

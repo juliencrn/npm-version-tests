@@ -2,10 +2,15 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.1.4",
+  "version": "3.0.0",
   "command": {
     "version": {
-      "allowBranch": "master"
+      "allowBranch": [
+        "master"
+      ],
+      "no-private": true,
+      "yes": true,
+      "amend": true
     }
   }
 }

@@ -10,6 +10,8 @@
     "build": "tsc",
     "prepublishOnly": "npm run build",
     "preversion": "npm run build",
+    "version": "lerna version",
+    "publish": "lerna run --scope @junscuzzy/b publish --stream",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

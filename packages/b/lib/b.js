@@ -5,5 +5,5 @@ module.exports = b;
 function b() {
     // TODO
     // Updated b
-    console.log("Hey2")
+    console.log("Hey3")
 }
